@@ -15,4 +15,4 @@ This is a template page
 
 
 
-[Ex 1:][] $\sum_{i=1}^n i^7 \in \Theta(n^8)$
+[Ex 1:](https://elizabeth-flx.github.io/algobio-exercises/pages/analysis_algo/landau/solutions/sample.pdf) $\sum_{i=1}^n i^7 \in \Theta(n^8)$
