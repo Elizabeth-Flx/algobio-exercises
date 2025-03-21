@@ -8,7 +8,7 @@ This is currently WIP
 
 ## Analyse von Algorithmen
 
-- [Landau Symbole](https://elizabeth-flx.github.io/algobio-exercises/analysis_algo/landau/page)
+- [Landau Symbole](https://elizabeth-flx.github.io/algobio-exercises/pages/analysis_algo/landau/page)
 
 
 
