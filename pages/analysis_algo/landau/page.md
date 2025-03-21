@@ -15,6 +15,4 @@ This is a template page
 
 
 
-[Ex 1:](./solutions/sample.pdf) $\sum_{i=1}^n i^7 \in \Theta(n^8)$
-
-
+[Ex 1:](./solutions/sample.pdf)  \( \sum_{i=1}^{n} i^7 \in \Theta(n^8) \)
