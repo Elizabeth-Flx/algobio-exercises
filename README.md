@@ -8,23 +8,19 @@ This is currently WIP
 
 ## Analyse von Algorithmen
 
-- [Landau Symbole](https://elizabeth-flx.github.io/algobio-exercises/pages/analysis_algo/landau/page)
-
-
-
-
-
+- [Landau Symbole (WIP)](https://elizabeth-flx.github.io/algobio-exercises/pages/analysis_algo/landau/page)
+- [Lineare Rekursiongleichungen (WIP)](https://elizabeth-flx.github.io/algobio-exercises/pages/analysis_algo/linear_rek/page)
 
 
 ## Other
 
-- [Master Theorem](https://elizabeth-flx.github.io/algobio-exercises/master-theorem)
+<!-- - [Master Theorem](https://elizabeth-flx.github.io/algobio-exercises/master-theorem)
 - [Lineare Rekursiongleichungen](https://elizabeth-flx.github.io/algobio-exercises/linear-recurrence)
 
 
 - [Aho-Corasick](https://elizabeth-flx.github.io/algobio-exercises/aho-corasick/aho-corasick)
 - [Ukkonen's Algorithm](https://elizabeth-flx.github.io/algobio-exercises/ukkonen)
 
-- [Boyer Moore][]
+- [Boyer Moore][] -->
 
 
