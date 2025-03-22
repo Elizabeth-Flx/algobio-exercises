@@ -1,6 +1,3 @@
-<script type="text/javascript" async
-  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
-</script>
 # Landau Symbole
 
 This is a template page
@@ -18,11 +15,9 @@ This is a template page
 
 
 
-[Ex 1:](./solutions/sample.pdf)  \( \sum_{i=1}^{n} i^7 \in \Theta(n^8) \)
+[Ex 1:](./solutions/s1.pdf)  
+![Formula](./solutions/e1.jpg)
 
+[Ex 2:](./solutions/s1.pdf)  
+![Formula](./solutions/e1.jpg)
 
-
-
-<script type="text/javascript">
-  MathJax.Hub.Queue(["Typeset", MathJax.Hub]);
-</script>
