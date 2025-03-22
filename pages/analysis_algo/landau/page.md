@@ -15,9 +15,9 @@ This is a template page
 
 
 
-[Ex 1:](./solutions/s1.pdf)  
+<a href="./solutions/s1.pdf" target="_blank">Ex 1</a>  
 ![Formula](./solutions/e1.jpg)
 
-[Ex 2:](./solutions/s1.pdf)  
+<a href="./solutions/s1.pdf" target="_blank">Ex 2</a>  
 ![Formula](./solutions/e1.jpg)
 
