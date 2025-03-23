@@ -15,8 +15,11 @@ This is a template page
 
 **Tips**: 
 Bei Summen kann es oft hilfreich sein für die **f ∈ Ω(g)** Abschätzung ein Teilbereich der Summe sich anzuschauen
+
 ![Formula](./assets/tip3.png)
+
 ![Formula](./assets/tip2.png)
+
 ![Formula](./assets/tip1.png)
 
 
