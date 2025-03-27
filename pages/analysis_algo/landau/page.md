@@ -22,6 +22,8 @@ Bei Summen kann es oft hilfreich sein für die **f ∈ Ω(g)** Abschätzung ein 
 
 ![Formula](./assets/tip1.png)
 
+<!-- Formulas generated with
+https://www.sciweavers.org/free-online-latex-equation-editor -->
 
 <a href="./solutions/s1.png" target="_blank">Ex 1</a>  
 ![Formula](./solutions/e1.png)
@@ -29,8 +31,11 @@ Bei Summen kann es oft hilfreich sein für die **f ∈ Ω(g)** Abschätzung ein 
 <a href="./solutions/s2.png" target="_blank">Ex 2</a>  
 ![Formula](./solutions/e2.png)
 
-<a href="./solutions/s3.png" target="_blank">Ex 2</a>  
+<a href="./solutions/s3.png" target="_blank">Ex 3</a>  
 ![Formula](./solutions/e3.png)
+
+<a href="./solutions/s4.png" target="_blank">Ex 4</a>  
+![Formula](./solutions/e4.png)
 
 
  
