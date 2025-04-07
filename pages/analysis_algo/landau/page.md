@@ -22,8 +22,12 @@ Bei Summen kann es oft hilfreich sein für die **f ∈ Ω(g)** Abschätzung ein 
 
 ![Formula](./assets/tip1.png)
 
-<!-- Formulas generated with
-https://www.sciweavers.org/free-online-latex-equation-editor -->
+<!-- 
+Formulas generated with
+https://www.sciweavers.org/free-online-latex-equation-editor
+Example formula
+\sum_{i=1}^n i^7 \in \Theta(n^8)
+ -->
 
 <a href="./solutions/s1.png" target="_blank">Ex 1</a>  
 ![Formula](./solutions/e1.png)
@@ -36,6 +40,9 @@ https://www.sciweavers.org/free-online-latex-equation-editor -->
 
 <a href="./solutions/s4.png" target="_blank">Ex 4</a>  
 ![Formula](./solutions/e4.png)
+
+<a href="./solutions/s5.png" target="_blank">Ex 5</a>  
+![Formula](./solutions/e5.png)
 
 
  
