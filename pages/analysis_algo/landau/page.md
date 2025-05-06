@@ -49,6 +49,4 @@ Example formula
 
 
 
-$$ \alpha $$
-
  
