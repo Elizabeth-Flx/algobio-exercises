@@ -44,8 +44,11 @@ Example formula
 <a href="./solutions/s5.png" target="_blank">Ex 5</a>  
 ![Formula](./solutions/e5.png)
 
-<a href="./solutions/s6.png" target="_blank">Ex 5</a>  
+<a href="./solutions/s6.png" target="_blank">Ex 6</a>  
 ![Formula](./solutions/e6.png)
 
+
+
+$$ \alpha $$
 
  
