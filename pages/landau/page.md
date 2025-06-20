@@ -5,8 +5,6 @@ This is a template page
 ## Excercises
 
 
-
-
 ### Zeige das ein Funktion in Θ(f) ist
 
 **Vorgehen:** Um zu zeigen, dass eine Funktion **f ∈ Θ(g)** ist muss man zeigen

@@ -8,8 +8,10 @@ This is currently WIP
 
 ## Analyse von Algorithmen
 
-- [Landau Symbole (WIP)](https://elizabeth-flx.github.io/algobio-exercises/pages/analysis_algo/landau/page)
-- [Lineare Rekursiongleichungen (WIP)](https://elizabeth-flx.github.io/algobio-exercises/pages/analysis_algo/linear_rek/page)
+- [Landau Symbole (WIP)](https://elizabeth-flx.github.io/algobio-exercises/pages/landau/page)
+- [Lineare Rekursiongleichungen (WIP)](https://elizabeth-flx.github.io/algobio-exercises/pages/linear_rek/page)
+
+
 
 
 ## Other
